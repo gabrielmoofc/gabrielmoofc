@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3d5FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gabriel+Moreira;I'm+from+Brazil;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoofc&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoofc&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielmoofc&show_icons=true&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmoofc&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A3d5FF&size=35&center=true&vCenter=true&width=1000&lines=Tecnologies,+I+use)](https://git.io/typing-svg)
